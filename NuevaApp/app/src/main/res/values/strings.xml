@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Nueva App</string>
+    <string name="listo">Listo!</string>
+    <string name="no_disponible">No disponible :(</string>
+    <string name="introduzca_el_texcto">Introduzca el texcto!</string>
+    <string name="alerta">Recuerta escribir algo en la caja de texto</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="Age">Edad</string>
+    <string name="cm">120 cm</string>
+    <string name="result">Tu resultado</string>
+    <string name="recalculate">Recalcular</string>
+
+    <string name="error">Error</string>
+    <string name="bajo_peso">Peso por debajo</string>
+    <string name="dBajo_peso">Estas por debajo para tu peso y altura</string>
+    <string name="peso_normal">Peso normal</string>
+    <string name="dPeso_normal">Estas en lo optimo para tu peso</string>
+    <string name="sobrepeso">Sobrepeso</string>
+    <string name="dSobrepeso">Estas por encima de tu peso</string>
+    <string name="obeso">Obesidad</string>
+    <string name="dObeso">Estas obeso</string>
+
+</resources>
